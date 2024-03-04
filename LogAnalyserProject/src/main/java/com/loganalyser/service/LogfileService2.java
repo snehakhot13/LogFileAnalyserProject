@@ -28,6 +28,8 @@ import com.loganalyser.dto.LogFilesReqDto;
 import jakarta.mail.MessagingException;
 import jakarta.mail.internet.MimeMessage;
 
+
+//local
 @Service
 public class LogfileService2 {
 	
